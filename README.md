@@ -23,6 +23,12 @@ Within your project folder we will create a file named "db.json" with the follow
   ]
 }
 ```
+Then let's run "json-server" and "react-app" by running the command below:
+
+$ json-server --watch db.json --port 3001
+
+
+$ npm run start
 
 
 ## Available Scripts
