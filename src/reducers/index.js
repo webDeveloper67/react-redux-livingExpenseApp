@@ -1,8 +1,8 @@
 import {combineReducers} from 'redux';
-import alertReducer from './alert';
 import {reducer as formReducer} from 'redux-form';
+import expensesReducer from './expenses';
 
 export default combineReducers({
-	alert: alertReducer,
-	form: formReducer
+	form: formReducer,
+	expenses: expensesReducer
 });
