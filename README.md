@@ -4,7 +4,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 First of all, you need to globally install json-server<br>
 
-After that, Create a JSON file: Within your project folder we will create a file named "db.json" with the following data:
+## Create a JSON file: 
+
+Within your project folder we will create a file named "db.json" with the following data:
+
+{
+  "expenses": [
+    {
+      "charge": "buy clothes",
+      "amount": "350",
+      "id": 8
+    },
+    {
+      "charge": "car budget",
+      "amount": "100",
+      "id": 9
+    }
+  ]
+}
 
 
 ## Available Scripts
