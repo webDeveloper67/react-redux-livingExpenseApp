@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## How to use this REPO
+
+First of all, you need to globally install json-server<br>
+
+After that, Create a JSON file: Within your project folder we will create a file named "db.json" with the following data:
+
+
 ## Available Scripts
 
 In the project directory, you can run:
