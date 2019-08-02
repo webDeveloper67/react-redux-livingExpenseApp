@@ -7,7 +7,7 @@ First of all, you need to globally install json-server<br>
 ## Create a JSON file: 
 
 Within your project folder we will create a file named "db.json" with the following data:
-
+```
 {
   "expenses": [
     {
@@ -22,6 +22,7 @@ Within your project folder we will create a file named "db.json" with the follow
     }
   ]
 }
+```
 
 
 ## Available Scripts
